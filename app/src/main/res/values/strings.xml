@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcular Nota</string>
+    <string name="lab">Ingrese Nota de Lab (60%)</string>
+    <string name="a1">Ingrese Nota de Avance 1 (5%)</string>
+    <string name="a2">Ingrese Nota de Avance 2 (7%)</string>
+    <string name="a3">Ingrese Nota de Avance 3 (8%)</string>
+    <string name="afinal">Ingrese Nota de App final (20%)</string>
+    <string name="Nota">Nota final</string>
+    <string name="Apreciasion">Predicción</string>
+</resources>
